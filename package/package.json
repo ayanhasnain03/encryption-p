@@ -1,0 +1,24 @@
+{
+  "name": "encryption-p",
+  "version": "1.0.0",
+  "description": "password hashing library",
+  "main": "dist/index.js",
+  "types": "dist/bcrypt.d.ts",
+  "scripts": {
+    "test": "dist/test.js"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "keywords": [
+    "bcrypt",
+    "password",
+    "hash",
+    "crypto"
+  ],
+  "author": "Ayan Hasnain",
+  "license": "MIT"
+}
