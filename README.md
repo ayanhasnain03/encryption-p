@@ -71,4 +71,8 @@ if (isMatch) {
 
 ## Author
 
+<<<<<<< HEAD
 <p><a href="https://github.com/yourgithubprofile">Ayan Hasnain</a></p>
+=======
+<p><a href="https://github.com/ayanhasnain03">Ayan Hasnain</a></p>
+>>>>>>> 09dce16c01c8dfa617e30f55c85bf8315a9b1dfe
